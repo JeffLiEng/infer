@@ -1,0 +1,10 @@
+pandoc: '2.2'
+pkgdown: 1.1.0.9000
+pkgdown_sha: b2798656f04ce282edea3e12734ba5588c6acd6e
+articles:
+  chisq_test: chisq_test.html
+  flights_examples: flights_examples.html
+  mtcars_examples: mtcars_examples.html
+  observed_stat_examples: observed_stat_examples.html
+  two_sample_t: two_sample_t.html
+
